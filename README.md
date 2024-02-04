@@ -1,5 +1,5 @@
 # WFAgenda
-![04-02-2024 Image](https://drive.google.com/file/d/1y0K77yKiKTCvEhqCk_1nw___gDCi9sye/preview)
+![Captura de tela 2024-02-04 001506](https://github.com/Ar3zST/WFAgenda/assets/100291497/1304251b-3196-4939-9002-112a0d80acb8)
 > Status: Pronto ✅
 
 Este repositório contém um projeto simples de uma Agenda construído usando C#, Windows Forms, MySql e ADO.NET. O objetivo deste repositório é praticar e compartilhar como você pode gerenciar uma agenda de contatos usando essas tecnologias.
@@ -8,9 +8,9 @@ A aplicação é um desktop simples para gerenciar uma agenda de contatos, permi
 
 ## Uso 🖥️
 Clone o repositório:
-
+````
 $ git@github.com:Ar3zST/WFAgenda.git
-
+````
 Instale as dependências com o NuGet.
 
 Inicie a aplicação com o Visual Studio.
